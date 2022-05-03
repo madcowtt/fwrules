@@ -1,2 +1,4 @@
 ethermine.org
 facebook.com
+www.facebook.com
+https://www.facebook.com/
