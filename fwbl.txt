@@ -2,9 +2,9 @@
 01xmrpool.com
 0769.it
 0cash.org
-0x1f4b0.com
-1-9-90.com
-1-hash.com
+#0x1f4b0.com
+#1-9-90.com
+#1-hash.com
 100-3x.com
 100-btc.com
 1000expert.com
